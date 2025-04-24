@@ -64,7 +64,7 @@ customer-segmentation-app/
 │   └── preprocess.py
 └── README.md
 🌐 Live App
-👉 Click here to try the app!
+👉 [Click here to try the app!](https://custmrsegment.streamlit.app/)
 
 ✨ Future Improvements
 - Add more clustering algorithms (DBSCAN, Hierarchical)
