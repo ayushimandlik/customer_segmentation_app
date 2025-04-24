@@ -6,6 +6,11 @@ Whether you're curious about how loyal customers behave, how much different coun
 
 ---
 
+### 🌐 Live App
+👉 [Click here to try the app!](https://custmrsegment.streamlit.app/)
+
+---
+
 ## 📊 Key Features
 
 - **RFM Feature Engineering** to capture customer value
@@ -38,9 +43,6 @@ This app uses an online retail dataset with the following features:
 
 ---
 
-
-### 🌐 Live App
-👉 [Click here to try the app!](https://custmrsegment.streamlit.app/)
 
 
 
