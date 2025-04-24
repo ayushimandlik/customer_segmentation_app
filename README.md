@@ -38,10 +38,14 @@ This app uses an online retail dataset with the following features:
 
 ---
 
-## 🚀 Getting Started
+
+### 🌐 Live App
+👉 [Click here to try the app!](https://custmrsegment.streamlit.app/)
+
+
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/yourusername/customer-segmentation-app.git
-cd customer-segmentation-app
+git clone https://github.com/ayushimandlik/customer_segmentation_app.git
+cd customer_segmentation_app
 
