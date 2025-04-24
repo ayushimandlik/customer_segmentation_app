@@ -44,8 +44,13 @@ This app uses an online retail dataset with the following features:
 
 
 
-### 1. Clone the Repo
+### To clone the Repo
 ```bash
 git clone https://github.com/ayushimandlik/customer_segmentation_app.git
 cd customer_segmentation_app
+```
 
+### ✨ Future Improvements
+- Add more clustering algorithms (DBSCAN, Hierarchical)
+-Time-series analysis for seasonality
+-Recommendation engine prototype
